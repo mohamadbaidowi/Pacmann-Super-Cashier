@@ -4,14 +4,17 @@
 Seorang pemilik supermarket ingin membuat kasir self-service dimana pelanggan bisa memasukkan jenis item yang mau dibeli, jumlahnya dan harganya secara mandiri. Karena itu, dalam project kali ini, akan dibuat Pacmann Super Cashier untuk memenuhi kebutuhan tersebut.
 <h2>Feature requirements</h2>
 Agar Pacmann Super Cashier sebagai aplikasi self-service untuk melakukan belanja dapat memenuhi kebutuhan pelanggannya, maka perlu disusun fungsi-fungsi yang mendukung. Berikut fasilitas yang diperlukan :
-1.	Fungsi untuk memulai belanja
-2.	Fungsi untuk memasukkan nama barang, jumlahnya dan harganya
-3.	Fungsi untuk melakukan perubahan nama barang
-4.	Fungsi untuk melakukan perubahan jumlah barang
-5.	Fungsi untuk melakukan perubahan harga barang
-6.	Fungsi untuk menghapus barang tertentu yang akan dibeli 
-7.	Fungsi untuk menghapus semua barang yang akan dibeli
-8.	Fungsi cek pesanan sebelum melakukan pembayaran
+
+<ol>
+<li>Fungsi untuk memulai belanja
+<li>Fungsi untuk memasukkan nama barang, jumlahnya dan harganya
+<li>Fungsi untuk melakukan perubahan nama barang
+<li>Fungsi untuk melakukan perubahan jumlah barang
+<li>Fungsi untuk melakukan perubahan harga barang
+<li>Fungsi untuk menghapus barang tertentu yang akan dibeli 
+<li>Fungsi untuk menghapus semua barang yang akan dibeli
+<li>Fungsi cek pesanan sebelum melakukan pembayaran
+</ol>
 
 Untuk mempermudah implementasi, maka dibuat alur program untuk aplikasi kasir self service ini sebelum dibuatkan kodenya. 
 Ketika pelanggan mulai belanja, maka akan diberikan keranjang belanja yang masih kosong. Untuk itu pelanggan akan diberikan pilihan menu untuk memulai belanja. Jika pelanggan sudah memasukkan barang, maka keranjang belanjanya akan mulai terisi,sehingga menu perubahan barang, penghapusan barang dan cek pesanan akan dimunculkan.
@@ -126,6 +129,6 @@ Jika sudah benar, silahkan ketik Y dan tekan ENTER. Proses belanja menggunakan s
 ![image](https://user-images.githubusercontent.com/116284597/216741888-bbf7167d-d583-4b9c-a53c-2f8205ac1a9f.png)
 
 
-<h2Conclusion</h2
+<h2>Conclusion</h2
 Dengan aplikasi super cashier pelanggan dapat melakukan belanja secara mandiri dengan mudah dan akurat tanpa kendala yang berarti.
 
