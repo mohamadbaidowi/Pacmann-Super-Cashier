@@ -129,6 +129,6 @@ Jika sudah benar, silahkan ketik Y dan tekan ENTER. Proses belanja menggunakan s
 ![image](https://user-images.githubusercontent.com/116284597/216741888-bbf7167d-d583-4b9c-a53c-2f8205ac1a9f.png)
 
 
-<h2>Conclusion</h2
+<h2>Conclusion</h2>
 Dengan aplikasi super cashier pelanggan dapat melakukan belanja secara mandiri dengan mudah dan akurat tanpa kendala yang berarti.
 
